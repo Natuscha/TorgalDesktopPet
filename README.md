@@ -2,6 +2,7 @@
 ### A small project for all of us, who'd like to have their favourite companion with them on their PC.
 
 ![grafik](https://github.com/Natuscha/TorgalDesktopPet/assets/144587739/d2dae5f4-b34a-434d-b7ef-5fbe80e0f27b)
+
 You just need to download the project and start torgal.exe. 
 It might take a few moments, but he should appear shortly at the bottom of your screen! 
 
